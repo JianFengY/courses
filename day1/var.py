@@ -14,3 +14,5 @@ print(name, name2)
 name = "Tom"  # 只有name变了，name2不会变
 
 print(name, name2)
+
+PIE = 3.14  # Python中定义常量全部字母大写
